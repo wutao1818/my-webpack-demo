@@ -1,0 +1,13 @@
+/*@font-face {
+	font-family: 'myfont';
+	src: url(./HARLOWSI.ttf) format('ttf');
+	font-weight: 600;
+	font-style: normal;
+}*/
+
+.hello {
+  color: blue;
+  font-size: 36px;
+  /*background: url('./banner.png');*/
+  /*font-family: 'myfont';*/
+}
